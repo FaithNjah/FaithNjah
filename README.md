@@ -11,7 +11,7 @@ What I Do
 
 Technical Content Creation: I write insightful technical articles and break down technical concepts.
 
-Community Building: I actively engage in developer communities, hosting AMAs, webinars, and workshops to foster learning and collaboration. My work has significantly boosted community engagement and growth.
+Community Building: I actively engage in Opensource developer communities, hosting AMAs, webinars, and workshops to foster learning and collaboration. My work has significantly boosted community engagement and growth.
 
 Public Speaking:  I love sharing my experiences and knowledge to inspire and educate others in the tech industry.
 
